@@ -1,4 +1,4 @@
 arduino-project
 ===============
 
-This project is the basis of many more cool projects
+This project is the basis of many more cool projects.
