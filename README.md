@@ -1,4 +1,4 @@
 arduino-project
 ===============
 
-This project is the basis of many more cool projects
+The execution and development of this project will be the base for many other Arduino projects.
